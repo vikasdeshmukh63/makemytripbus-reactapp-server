@@ -1,7 +1,7 @@
 {
   "name": "makemytripreloaded",
   "version": "1.0.0",
-  "description": "",
+  "description": "this is backend for mmt bus",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
